@@ -1,0 +1,36 @@
+
+	Welch Two Sample t-test
+
+data:  Points by IsHome
+t = -0.75759, df = 25.611, p-value = 0.4556
+alternative hypothesis: true difference in means between group Away and group Home is not equal to 0
+95 percent confidence interval:
+ -10.077344   4.652507
+sample estimates:
+mean in group Away mean in group Home 
+          75.17647           77.88889 
+
+
+	Welch Two Sample t-test
+
+data:  Performance_Index_Rating by IsHome
+t = -1.4874, df = 29.012, p-value = 0.1477
+alternative hypothesis: true difference in means between group Away and group Home is not equal to 0
+95 percent confidence interval:
+ -22.508350   3.554102
+sample estimates:
+mean in group Away mean in group Home 
+          83.41176           92.88889 
+
+
+	Welch Two Sample t-test
+
+data:  Three-point% by IsHome
+t = -0.28525, df = 30.699, p-value = 0.7774
+alternative hypothesis: true difference in means between group Away and group Home is not equal to 0
+95 percent confidence interval:
+ -8.877432  6.699654
+sample estimates:
+mean in group Away mean in group Home 
+          39.70000           40.78889 
+
